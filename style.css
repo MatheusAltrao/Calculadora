@@ -32,11 +32,12 @@ h1 {
   padding: 1rem;
   border-radius: 1rem;
   margin-top: 10rem;
+  width: 19.5rem;
 }
 
 p {
   height: 30px;
-  width: 100%;
+  width: 240px;
   background-color: #fff;
   margin: 20px 0;
   border-radius: 4px;
@@ -51,8 +52,8 @@ p {
 }
 
 .button {
-  height: 50px;
-  width: 50px;
+  height: 60px;
+  width: 60px;
   cursor: pointer;
   background-color: #4d4d4d;
   color: #fff;
@@ -67,7 +68,7 @@ p {
 }
 
 .big-2 {
-  height: 102px;
+  height: 122px;
 }
 
 .button:hover {
